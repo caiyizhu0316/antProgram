@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>AntTestDemo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>D:/HJY的百宝箱/大三下/软件质量测试/AntTestDemo/classes</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>D:/HJY的百宝箱/大三下/软件质量测试/AntTestDemo/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
